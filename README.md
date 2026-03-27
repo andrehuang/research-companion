@@ -32,7 +32,7 @@ This plugin provides that colleague.
 
 | Skill | What it does |
 |-------|-------------|
-| `/research-brainstorm` | A structured multi-phase ideation session that orchestrates all three agents through: **Seed** → **Diverge** → **Evaluate** → **Deepen** → **Frame** → **Decide**. Includes Carlini's "conclusion-first test." |
+| `/research-companion` | A structured multi-phase ideation session that orchestrates all three agents through: **Seed** → **Diverge** → **Evaluate** → **Deepen** → **Frame** → **Decide**. Includes Carlini's "conclusion-first test." |
 
 ### Principles
 
