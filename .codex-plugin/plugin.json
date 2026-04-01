@@ -1,0 +1,42 @@
+{
+  "name": "research-companion",
+  "version": "1.1.0",
+  "description": "Strategic research thinking agents for brainstorming, idea evaluation, and project triage.",
+  "author": {
+    "name": "Andre Huang",
+    "url": "https://github.com/andrehuang"
+  },
+  "homepage": "https://github.com/andrehuang/research-companion",
+  "repository": "https://github.com/andrehuang/research-companion",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "brainstorming",
+    "idea-evaluation",
+    "strategy",
+    "academic"
+  ],
+  "skills": "./codex-skills/",
+  "interface": {
+    "displayName": "Research Companion",
+    "shortDescription": "Brainstorm, stress-test, and triage research directions",
+    "longDescription": "Research Companion helps researchers pick better problems before they spend months on them. It combines structured brainstorming, adversarial idea evaluation, and project-level strategy using Carlini-inspired tests for novelty, impact, timing, feasibility, and narrative strength.",
+    "developerName": "Andre Huang",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/andrehuang/research-companion",
+    "defaultPrompt": [
+      "Use $research-companion to brainstorm and pressure-test a new research direction.",
+      "Evaluate this research idea and tell me whether to pursue, refine, or kill it.",
+      "Help me decide whether to continue, pivot, or stop a struggling project."
+    ],
+    "brandColor": "#1F5C73",
+    "composerIcon": "./assets/research-companion-small.svg",
+    "logo": "./assets/research-companion.svg",
+    "screenshots": []
+  }
+}
