@@ -8,6 +8,8 @@ Most AI writing tools help you *write* papers. This plugin helps you decide *whi
 
 Inspired by Nicholas Carlini's essay ["How to Win a Best Paper Award"](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html) — which argues that great research starts with taste, strategic problem selection, honest self-evaluation, and knowing when to kill your darlings.
 
+> **📢 Update (April 2026): Research Companion is now also a component of [`researcher-pack`](https://github.com/andrehuang/researcher-pack)** — a more advanced, all-in-one Claude Code plugin for researchers that bundles strategic brainstorming, paper reading, literature tracking, academic writing, and project management into a single integrated workflow. This standalone repo is still actively maintained, and any updates to Research Companion will be synced between both repos — so you can use it here on its own, or get the full toolkit over at [`researcher-pack`](https://github.com/andrehuang/researcher-pack). Feedback, issues, and PRs are very welcome in either place! 🙏
+
 ## The Problem
 
 Researchers don't lack the ability to write papers. They lack a trusted colleague who will:
@@ -181,6 +183,7 @@ This means your research thinking accumulates over time rather than starting fro
 
 ## Pairs Well With
 
+- [**researcher-pack**](https://github.com/andrehuang/researcher-pack) ⭐ — **The recommended way to use Research Companion.** An integrated Claude Code plugin for researchers that incorporates Research Companion as its strategic-thinking component, alongside paper reading, literature tracking, academic writing, and session management. If you use more than one of the tools below, install `researcher-pack` instead of stitching them together by hand.
 - [**Academic Writing Agents**](https://github.com/andrehuang/academic-writing-agents) — 12 agents for reviewing, auditing, drafting, and polishing academic papers. Research Companion handles the "what to write" question; Academic Writing Agents handles the "how to write it" question.
 - [**Claude-Claw**](https://github.com/andrehuang/claude-claw) — OpenClaw-inspired enhancements for session continuity, task management, and memory architecture. Provides `/handoff` for saving session state and `/manager` for tracking research tasks.
 
